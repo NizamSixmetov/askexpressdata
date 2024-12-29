@@ -366,7 +366,7 @@
   "teamData": [
     {
       "id": 1,
-      "image": "/AboutTeamImage/Sara1.svg",
+      "image": "/AboutTeamImage/Sarah.jpg",
       "name": "Sarah Jasmine",
       "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews.",
       "position": "CEO at Company",
@@ -376,7 +376,7 @@
     },
     {
       "id": 2,
-      "image": "/AboutTeamImage/John2.svg",
+      "image": "/AboutTeamImage/John.jpg",
       "name": "John Carter",
       "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews.",
       "position": "Manger",
@@ -386,7 +386,7 @@
     },
     {
       "id": 3,
-      "image": "/AboutTeamImage/Daisy3.svg",
+      "image": "/AboutTeamImage/Daisy.jpg",
       "name": "Daisy Stella",
       "description": "Leverage agile frameworks to provide a robust synopsis for high level overviews.",
       "position": "CEO at Company",
